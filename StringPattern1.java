@@ -1,3 +1,13 @@
+/* String Pattern1: 
+Write a program to print the following output for the given input you can assume the string is of outlet 
+Example 1: 
+Input: 12345
+output:1   5
+        2 4
+	 3
+        2 4
+       1   5
+*/
 import java.util.*;
 class StringPattern1 
 {
